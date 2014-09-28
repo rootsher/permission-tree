@@ -3,7 +3,7 @@
 ## Definicje
 
 ### Uprawnienia
-Uprawnienie - permission - typ_zasobu:id:akcja - resourceType:resourceID:action - "Product:912381923:addProduct"
+Uprawnienie - permission - resourceType:resourceID:action - "Product:912381923:addProduct"
 
 ### Role
 Rola - role - posiada uprawnienia. Role mogą należeć do innych ról i będą posiadać maksymalnie tylko uprawnienia roli nadrzędnej.
